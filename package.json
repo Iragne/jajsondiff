@@ -1,26 +1,12 @@
 {
-  "name": "jajsondiff",
-  "version": "0.0.7",
-  "author": "Adelskott <adelskott@gmail.com>",
-  "description": "Diff & Patch for json",
-  "main": "./index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/iragne/jajsondiff.git"
-  },
-  "keywords": [
-    "json",
-    "diff",
-    "patch"
-  ],
-  "bundleDependencies": [],
-  "license": "MIT",
-  "engine": {
-    "node": ">=0.8"
-  },
-  "dependencies": {},
-  "engines": {
-    "node": "*"
-  },
-  "homepage": "https://github.com/iragne/jajsondiff"
+  "name" : "jajsondiff",
+  "description" : "diff et patch json",
+  "url" : "http://github.com/coolaj86/node-pid/",
+  "keywords" : ["util", "pid"],
+  "author" : "Adelskott <adelskott@gmail.com>",
+  "contributors" : [],
+  "dependencies" : [],
+  "lib" : "lib",
+  "main" : "./index",
+  "version" : "0.1"
 }
