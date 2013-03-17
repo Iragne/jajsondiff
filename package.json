@@ -1,7 +1,7 @@
 {
   "name" : "jajsondiff",
   "description" : "diff et patch json",
-  "url" : "http://github.com/coolaj86/node-pid/",
+  "url" : "http://github.com/iragne/jajsondiff",
   "keywords" : ["util", "pid"],
   "author" : "Adelskott <adelskott@gmail.com>",
   "contributors" : [],
