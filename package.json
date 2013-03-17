@@ -1,12 +1,12 @@
 {
   "name" : "jajsondiff",
   "description" : "diff et patch json",
-  "url" : "http://github.com/iragne/jajsondiff",
+  "url" : "http://github.com/Iragne/jajsondiff",
   "keywords" : ["util", "pid"],
   "author" : "Adelskott <adelskott@gmail.com>",
   "contributors" : [],
   "dependencies" : [],
   "lib" : "lib",
   "main" : "./index",
-  "version" : "0.1"
+  "version" : "0.1.0"
 }
